@@ -1,0 +1,21 @@
+{
+  "name": "babel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hn-failte/babel-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hn-failte/babel-demo/issues"
+  },
+  "homepage": "https://github.com/hn-failte/babel-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.10"
+  }
+}
